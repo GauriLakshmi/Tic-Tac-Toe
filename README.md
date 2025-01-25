@@ -14,7 +14,7 @@
 https://gaurilakshmi.github.io/Tic-Tac-Toe/Website.html
 
 ### Project Description
-
+This is a fun and interactive Tic-Tac-Toe game, where two users can play offline on the same device. Built using HTML, CSS, and JavaScript, it provides an engaging user experience with a visually appealing interface.
 
 ### The Problem statement
 [What ridiculous problem are you solving?]
