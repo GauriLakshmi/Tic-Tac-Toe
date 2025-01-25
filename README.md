@@ -11,10 +11,10 @@
 - Member 3: Souparnika K V - Rajiv Gandhi Institute of Technology , Kottayam
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://github.com/GauriLakshmi/Tic-Tac-Toe
 
 ### Project Description
-[2-3 lines about what your project does]
+
 
 ### The Problem statement
 [What ridiculous problem are you solving?]
