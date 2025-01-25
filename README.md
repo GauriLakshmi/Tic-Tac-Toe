@@ -36,64 +36,33 @@ CSS: For styling the game elements, ensuring the game looks visually appealing a
 
 JavaScript: For the game logic, handling player turns, win conditions, and drawing the board.
 
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
 
 # Screenshots (Add at least 3)
 ![X wins](https://github.com/user-attachments/assets/08b4655b-81a1-45cf-898b-db7ab8bcf37d)
 
 *This is screenshot where X wins.*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![O Wins](https://github.com/user-attachments/assets/360b9421-bc67-40a6-9895-d701f22efb6c)
+*This is screenshot where O wins.*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Draw!](https://github.com/user-attachments/assets/1e411da3-d749-4909-a110-0ad92333d213)
+*Here, it is a DRAW!.*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
-![Team](Add photo of your team here)
+![Us](https://github.com/user-attachments/assets/e4fbdb11-9628-4fd8-9822-1cf5e13235b0)
 
 
-![Components](Add photo of your components here)
-*List out all components shown*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
 
-![Final](Add photo of final product here)
-*Explain the final build*
+# Final Build
+![Final Preview](https://github.com/user-attachments/assets/052135df-0bbb-4e03-9c5c-3c6d41908f4b)
 
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Gauri Lakshmi: Game.js
+- Irin Dominic : Website.html
+- Souparnika K V: Webstyle.css
 
 ---
 Made with ❤️ at TinkerHub
