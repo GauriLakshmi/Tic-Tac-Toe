@@ -11,7 +11,7 @@
 - Member 3: Souparnika K V - Rajiv Gandhi Institute of Technology , Kottayam
 
 ### Hosted Project Link
-https://github.com/GauriLakshmi/Tic-Tac-Toe
+https://gaurilakshmi.github.io/Tic-Tac-Toe/Website.html
 
 ### Project Description
 
