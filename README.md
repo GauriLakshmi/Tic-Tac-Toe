@@ -14,26 +14,18 @@
 https://gaurilakshmi.github.io/Tic-Tac-Toe/Website.html
 
 ### Project Description
-This is a fun and interactive Tic-Tac-Toe game, where two users can play offline on the same device. Built using HTML, CSS, and JavaScript, it provides an engaging user experience with a visually appealing interface.
+This is just a fun and interactive Tic-Tac-Toe game, where two users can play offline on the same device. Built using HTML, CSS, and JavaScript, it provides an engaging user experience with a visually appealing interface.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Create a simple, interactive, and user-friendly Tic Tac Toe game that can be played in a web browser between two players.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
-
+We just developed our own Tic-Tac-Toe game using our basic knowledge in HTML, CSS and implimenting the game logic with the help of Java Script. Have fun playing it with your friends:))
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Languages used :- HTML,Javascript,CSS
+- Tools used :- VSCode,Google Chrome
 
 ### Implementation
 For Software:
