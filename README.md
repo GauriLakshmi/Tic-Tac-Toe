@@ -46,8 +46,9 @@ JavaScript: For the game logic, handling player turns, win conditions, and drawi
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![X wins](https://github.com/user-attachments/assets/08b4655b-81a1-45cf-898b-db7ab8bcf37d)
+
+*This is screenshot where X wins.*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
