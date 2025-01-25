@@ -29,6 +29,13 @@ For Software:
 
 ### Implementation
 For Software:
+
+HTML: For creating the structure of the web page, including game board and buttons.
+
+CSS: For styling the game elements, ensuring the game looks visually appealing and user-friendly.
+
+JavaScript: For the game logic, handling player turns, win conditions, and drawing the board.
+
 # Installation
 [commands]
 
